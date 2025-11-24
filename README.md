@@ -1,11 +1,9 @@
-#Liberty-Hamunakwadi
+Liberty-Hamunakwadi| Master of Business Analytics| Barchelor of Acoountancy
 A curated collection of my software projects, research articles demonstrating my skills in modern development tools and technologies and research capacity.
-
-Master of Business Analytics
 I’m a data-focused problem solver blending analytics, accounting, and technology to help organizations make evidence-based decisions.  
 My work spans ETL pipelines, regression modeling, machine learning, KPI dashboards, ERP governance, and financial analysis.
 ---
-#Professional Summary  
+Professional Summary  
 Master of Business Analytics candidate with a strong accounting background.  
 Skilled in **Excel, Microsoft Azure (joins/aggregations), Python, R, Fabric/Databricks, and developing analytics models that executives can use.  
 Known for accuracy, clean documentation, and building insights that support decision-makers.  
