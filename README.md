@@ -1,4 +1,5 @@
-Liberty-Hamunakwadi| Master of Business Analytics| Barchelor of Acoountancy
+Liberty-Hamunakwadi| Master of Business Analytics| Barchelor of Accountancy
+---
 A curated collection of my software projects, research articles demonstrating my skills in modern development tools and technologies and research capacity.
 I’m a data-focused problem solver blending analytics, accounting, and technology to help organizations make evidence-based decisions.  
 My work spans ETL pipelines, regression modeling, machine learning, KPI dashboards, ERP governance, and financial analysis.
